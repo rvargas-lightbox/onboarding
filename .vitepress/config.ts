@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Lightbox Developer Portal",
   description: "A simple guide to help you as the developer to prepare for the job.",
+  outDir: 'lightbox',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: { src: 'https://online.rimscentral.com/images/LightBoxLogo.png', 'alt': 'Lightbox Developer Portal' },
