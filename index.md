@@ -11,8 +11,8 @@ hero:
       text: Quick-Start
       link: /docs/quick-start
     - theme: alt
-      text: The Guide
-      link: /docs/documentation/
+      text: Onboarding
+      link: /docs/docs/onboarding/
 
 features:
   - icon: ⏭️
