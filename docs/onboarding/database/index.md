@@ -16,8 +16,6 @@ During the history of this application, the Database schema has changed many tim
 
 To simplify the onboarding process, we only show the most commonly used Databases. While working on the tool, you can find new information about the project structure. As we explained before, this project is enormous, and not all of the application has been covered by one person.
 
-Created or Adapter to C360. Technical Deb.
-
 ```
 Pre UAT
 ├─ Accounts           - Very Important - All related to Users and Permissions.
