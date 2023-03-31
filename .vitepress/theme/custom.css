@@ -1,0 +1,18 @@
+.VPNavBarTitle.has-sidebar { padding-top: 20px; }
+.VPNavBarTitle.has-sidebar .title { display: flex; flex-direction: column; }
+#VPSidebarNav > div > section.VPSidebarItem { margin-top: 20px; }
+summary + h3 { margin-top: 5px !important; }
+
+.vp-doc h2 { font-size: 2em; }
+.vp-doc h3 { font-size: 1.5em; }
+.vp-doc p + h4 { margin-top: 2em; }
+.vp-doc h4 { font-size: 1.3em; color: #00f; }
+
+.vp-doc h3 + p,
+.vp-doc h4 + p {
+  margin-top: 0 !important;
+}
+
+.schema { color: #009 }
+.schema-table { color: #888; padding-bottom: 0; font-size: 1em; }
+.inline-schema-table { color: #888; font-size: 1em; display: inline }
