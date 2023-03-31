@@ -2,3 +2,4 @@
 .netlify
 .vitepress/dist
 .vscode
+node_modules
